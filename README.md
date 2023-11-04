@@ -1,1 +1,1 @@
-# Cloning Netflix site with HTML & CSS
+#  Netflix site with HTML & CSS
